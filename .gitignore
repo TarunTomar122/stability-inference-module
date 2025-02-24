@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.env
+gemini_chat.py
+*.safetensors
+*.pth
+*.bin
+*.ckpt
+*.pt
+*.pth

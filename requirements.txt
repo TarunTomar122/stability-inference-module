@@ -1,0 +1,12 @@
+torch>=2.0.0
+diffusers>=0.24.0
+transformers>=4.36.0
+safetensors>=0.4.0
+accelerate>=0.25.0
+numpy>=1.24.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+google-generativeai>=0.3.0
+
+# Optional dependencies (install manually if needed):
+# xformers>=0.0.22.post4  # For memory efficiency
