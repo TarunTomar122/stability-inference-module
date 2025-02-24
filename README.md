@@ -1,5 +1,7 @@
 # stable-diffusion-inference-module
 
+(for mac)
+
 HOW TO RUN?
 
 1. Open terminal in root dir
